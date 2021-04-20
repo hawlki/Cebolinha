@@ -10,9 +10,7 @@ namespace Cebolinha
             Console.Beep();
 
             Console.WriteLine("-----------------------------");
-            Console.WriteLine("Etec Adolpho Berezin");
-            Console.WriteLine("Feito por Israel Camilo Lopes");
-            Console.WriteLine("1I3");
+            Console.WriteLine("          Cebolinha          ");
             Console.WriteLine("-----------------------------");
 
             Console.ForegroundColor = ConsoleColor.DarkRed;
